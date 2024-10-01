@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Petya Petrova, a second-year data science student at ITU. I'm passionate about diving deep into data and extracting valuable insights.
+I'm Petya Petrova, a  data science student at ITU. I'm passionate about diving deep into data and extracting valuable insights.
 
 - 🔭 I’m currently working on honing my skills in machine learning and data analysis.
 - 🌱 I’m eager to learn and expand my knowledge in the field of data science.
@@ -11,4 +11,3 @@ I'm Petya Petrova, a second-year data science student at ITU. I'm passionate abo
 - ⚡ Fun fact: I have a bit of trouble pronouncing the word "wood" - it always comes out as "weird"! 😄
 
 
-Let's explore the world of data together! 🚀
